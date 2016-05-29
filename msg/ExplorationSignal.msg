@@ -1,3 +1,3 @@
 
 string type
-LightSpec lights
+LightSpec[] lights
