@@ -8,4 +8,4 @@ int8 BASE_BLACK   = 2
 int8 BASE_SILVER  = 3
 
 int8 CAP_BLACK    = 1
-int8 CAP_GREYint8 = 2
+int8 CAP_GREY     = 2
