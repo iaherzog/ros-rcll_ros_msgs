@@ -6,6 +6,8 @@ int8 BS_SIDE_OUTPUT = 2
 # Name of the machine to instruct
 string machine
 
+bool wait
+
 # Machine-type specific parameters
 # BS: color of base to get and side of output
 int8 bs_side
