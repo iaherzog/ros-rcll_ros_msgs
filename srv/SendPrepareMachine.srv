@@ -12,8 +12,8 @@ bool wait
 # BS: color of base to get and side of output
 int8 bs_side
 int8 bs_base_color
-# DS: gate/slide to deliver onto
-uint32 ds_gate
+# DS: order id 
+uint32 ds_order_id
 # RS: ring color to mount next
 int8 rs_ring_color
 # CS: operation to perform
